@@ -18,16 +18,16 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/shahin509/MLproject-3_Text-Summarization-NLP.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n summary python=3.8 -y
+conda create -n textsum python=3.8 -y
 ```
 
 ```bash
-conda activate summary
+conda activate textsum
 ```
 
 
@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
+Author: Shahin Hossain
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: hossainshahin230@gmail.com
 
 ```
 
